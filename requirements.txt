@@ -7,6 +7,5 @@ faiss-cpu
 scikit-learn
 streamlit-extras
 langchain
-pydantic
 reportlab
 pymupdf

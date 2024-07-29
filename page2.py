@@ -13,16 +13,6 @@ import openai
 import faiss
 from sklearn.metrics.pairwise import cosine_similarity
 
-# Sidebar contents
-with st.sidebar:
-    st.title('🤗💬 LLM Tender App')
-    st.markdown('''
-    ## About
-    This app is an LLM-powered chatbot built for analyzing tenders using:
-    ''')
-    add_vertical_space(5)
-    st.write('Made with ❤️ by Gak and Ashar')
-
 # Load environment variables
 load_dotenv()
 
