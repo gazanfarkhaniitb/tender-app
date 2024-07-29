@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+pdfplumber
+openai
+numpy
+faiss-cpu
+scikit-learn
+streamlit-extras
+langchain
+reportlab
