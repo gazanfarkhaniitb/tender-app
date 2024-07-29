@@ -6,6 +6,7 @@ numpy
 faiss-cpu
 scikit-learn
 streamlit-extras
-langchain
+langchain==0.0.133
+pydantic==1.10.2
 reportlab
 pymupdf
